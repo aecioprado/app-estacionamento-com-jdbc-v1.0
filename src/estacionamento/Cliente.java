@@ -2,6 +2,7 @@ package estacionamento;
 
 public class Cliente {
 	
-	private String placa;
+	private String nome;
+	private String telefone1;
 
 }
