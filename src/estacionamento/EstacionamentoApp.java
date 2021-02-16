@@ -8,6 +8,7 @@ public class EstacionamentoApp {
 		
 		/* sistema para gerenciamento web de estacionamentos */
 		
+		System.out.println("Bem-vindo ao Parking Management");
 		
 		
 
